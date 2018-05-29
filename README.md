@@ -1,2 +1,0 @@
-# git-new
-New Repository
